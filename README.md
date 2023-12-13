@@ -1,4 +1,4 @@
-# Hello, my name is Kyle Tranfaglia
+# Kyle Tranfaglia
 
 ## About me 
 
@@ -7,7 +7,7 @@ In my repositories, you will find all my code from the math and computer science
 
 ## Contact and Link
 
-- Instagram: [Instagram](https://www.instagram.com/kyle_tranfaglia/)
+- Instagram: [kyle_tranfaglia](https://www.instagram.com/kyle_tranfaglia/)
 - Email: kyletranfaglia@gmail.com
 
 ## Explore
