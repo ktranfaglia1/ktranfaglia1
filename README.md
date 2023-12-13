@@ -15,6 +15,7 @@ In my repositories, you will find all my code from the math and computer science
 - Music Painter: [MusicPainterWebsite](https://musicpainterwebsite2023.on.drv.tw/musicpainter/)
 
 <p align="center">
+  ## My GitHub Statistics
   <a href="https://github.com/ktranfaglia1">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktranfaglia1&theme=radical&border=7F3FBF&background=0D1117" alt="Kyle's GitHub streak"/>
   </a>
