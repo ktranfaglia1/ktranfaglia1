@@ -14,7 +14,7 @@ If you would like to contact me, email me at kyletranfaglia@gmail.com
   <br/>
 </a>
 
-![Kyle's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ktranfaglia1&custom_title=Cole's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Kyle's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ktranfaglia1&custom_title=Kyle's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!---
 ktranfaglia1/ktranfaglia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
