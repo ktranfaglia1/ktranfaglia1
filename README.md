@@ -1,6 +1,18 @@
-Hello, my name is Kyle Tranfaglia. I am a junior at Salisbury University studying computer science and computational data science.
+# Hello, my name is Kyle Tranfaglia
+
+## About me 
+
+I am a junior at Salisbury University studying computer science and computational data science.
 In my repositories, you will find all my code from the math and computer science courses I have taken, including my research projects.
-If you would like to contact me, email me at kyletranfaglia@gmail.com
+
+## Contact and Link
+
+- Instagram: [Instagram](https://www.instagram.com/kyle_tranfaglia/)
+- Email: kyletranfaglia@gmail.com
+
+## Explore
+
+- Music Painter: [MusicPainterWebsite](https://musicpainterwebsite2023.on.drv.tw/musicpainter/)
 
 <p align="center">
   <a href="https://github.com/ktranfaglia1">
