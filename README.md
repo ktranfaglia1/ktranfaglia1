@@ -13,7 +13,9 @@ In my repositories, you will find all my code from the math and computer science
 
 ## Explore
 
-- Music Painter: [MusicPainterWebsite](https://musicpainterwebsite2023.on.drv.tw/musicpainter/)
+- Portfolio: https://portfolio.kyletranfaglia.top/
+- Music Painter: https://portfolio.kyletranfaglia.top/MusicPainterWebsite/src/
+- Cellular Automata: https://portfolio.kyletranfaglia.top/COSC425/src/
 
 ## My GitHub Statistics
  
