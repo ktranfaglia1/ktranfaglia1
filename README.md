@@ -13,9 +13,9 @@ In my repositories, you will find all my code from the math and computer science
 
 ## Explore
 
-- Portfolio: https://portfolio.kyletranfaglia.top/
-- Music Painter: https://portfolio.kyletranfaglia.top/MusicPainterWebsite/src/
-- Cellular Automata: https://portfolio.kyletranfaglia.top/COSC425/src/
+- Portfolio: portfolio.kyletranfaglia.top
+- Music Painter: portfolio.kyletranfaglia.top/MusicPainterWebsite/src/
+- Cellular Automata: portfolio.kyletranfaglia.top/COSC425/src/
 
 ## My GitHub Statistics
  
