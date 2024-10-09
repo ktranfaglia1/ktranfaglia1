@@ -2,7 +2,7 @@
 
 ## About me 
 
-I am a junior at Salisbury University studying computer science and computational data science.
+I am a senior undergraduate at Salisbury University studying computer science and computational data science.
 In my repositories, you will find all my code from the math and computer science courses I have taken, including my research projects.
 
 ## Contact and Link
