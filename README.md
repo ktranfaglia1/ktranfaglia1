@@ -13,9 +13,9 @@ In my repositories, you will find all my code from the math and computer science
 
 ## Explore
 
-- Portfolio: [portfolio.kyletranfaglia.top](https://kyletranfaglia.top)
-- Music Painter: [portfolio.kyletranfaglia.top/MusicPainterWebsite/src/](https://musicpainter.org)
-- Celite: [portfolio.kyletranfaglia.top/Celite/src/](https://celite.org)
+- Portfolio: [kyletranfaglia.top](https://kyletranfaglia.top)
+- Music Painter: [https://musicpainter.org](https://musicpainter.org)
+- Celite: [https://celite.org](https://celite.org)
 
 ## My GitHub Statistics
  
