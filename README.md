@@ -7,7 +7,6 @@ In my repositories, you will find all my code from the math and computer science
 
 ## Contact and Link
 
-- Instagram: [kyle_tranfaglia](https://www.instagram.com/kyle_tranfaglia/)
 - LinkedIn: [kyle-tranfaglia](https://www.linkedin.com/in/kyle-tranfaglia-6564b42a4/)
 - Email: kyletranfaglia@gmail.com
 
