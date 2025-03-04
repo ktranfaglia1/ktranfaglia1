@@ -20,7 +20,7 @@ In my repositories, you will find all my code from the math and computer science
  
 <p align="center">
   <a href="https://github.com/ktranfaglia1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktranfaglia1&theme=radical&border=7F3FBF&background=0D1117" alt="Kyle's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktranfaglia1&theme=radical&border=7F3FBF&background=0D1117"/>
   </a>
 </p>
 
