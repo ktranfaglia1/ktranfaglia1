@@ -2,7 +2,7 @@
 
 ## About me 
 
-I am a senior undergraduate at Salisbury University studying computer science and computational data science.
+I am a Salisbury Alumnus with dual Bachelor of Science degrees in Computer Science and Data Science.
 In my repositories, you will find projects and notable programs I have written over the years.
 
 ## Contact and Link
