@@ -2,7 +2,8 @@
 
 ## About me 
 
-I am a Salisbury Alumnus with dual Bachelor of Science degrees in Computer Science and Data Science.
+I am a Salisbury University Alumnus with dual Bachelor of Science degrees in Computer Science and Data Science. 
+I work as a full-stack software engineer for AtlasConnect, serving as the sole developer responsible for building and maintaining an end-to-end web platform. 
 In my repositories, you will find projects and notable programs I have written over the years.
 
 ## Contact and Link
