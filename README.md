@@ -8,7 +8,7 @@ In my repositories, you will find projects and notable programs I have written o
 
 ## Contact and Link
 
-- LinkedIn: [kyle-tranfaglia](https://www.linkedin.com/in/kyle-tranfaglia-6564b42a4/)
+- LinkedIn: [kyletranfaglia](https://www.linkedin.com/in/kyletranfaglia)
 - Email: kyletranfaglia@gmail.com
 
 ## Explore
