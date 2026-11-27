@@ -2,7 +2,7 @@
 
 **Software engineer building AI products end to end.**
 
-I'm the **co-founder and lead software engineer of Pitchfire**, an AI platform for startups and investment teams. As its only engineer, I own the platform end to end, from the PostgreSQL data model and the React/TypeScript and Node.js app to the AI pipeline, background jobs, security and production. It serves 150+ active users across 100+ firms. Pitchfire's code is private, so the repositories here are my research, client and personal projects.
+I'm the **co-founder and lead software engineer of Pitchfire**, an AI platform for startups and investment teams. As its only engineer, I own the platform end to end, from the PostgreSQL data model and the React/TypeScript and Node.js app to the AI pipeline, background jobs, security and production. It serves 150+ active users across 100+ firms. Pitchfire's code is private, so the repositories here are my research, client, and personal projects.
 
 I hold dual B.S. degrees in **Computer Science** and **Data Science** from Salisbury University, summa cum laude.
 
